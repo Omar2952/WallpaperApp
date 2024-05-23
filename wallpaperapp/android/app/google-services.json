@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894743085946",
+    "project_id": "wallpaper-90d3d",
+    "storage_bucket": "wallpaper-90d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894743085946:android:abede852ef8ec7e9084cc3",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKBHx0BxqlCnv6aIpUjX36aH3W04Kiz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
